@@ -1,0 +1,51 @@
+name: SignumBeat
+description: "A new Flutter project."
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  cupertino_icons: ^1.0.2
+  dynamic_themes: ^1.1.0
+  on_audio_query: ^2.9.0
+  just_audio: ^0.9.36
+  permission_handler: ^11.1.0
+  path_provider: ^2.1.1
+  fluttertoast: ^8.2.4
+  youtube_explode_dart: ^2.0.4
+  xen_popup_card: ^0.0.3+2
+  http: ^1.1.2
+  dio: ^5.4.0
+  json_serializable: ^6.7.1
+  dart_des: ^1.0.2
+  persistent_bottom_nav_bar: ^5.0.2
+  html_unescape: ^2.0.0
+  share_plus: ^7.2.1
+  flutter_sliding_up_panel: ^2.1.1
+  shimmer: ^3.0.0
+  firebase_core:
+  firebase_auth: ^4.16.0
+  firebase_storage: ^11.6.0
+  cloud_firestore: ^4.14.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: 'assets/appLogo.png'
+  
+flutter:
+  uses-material-design: true

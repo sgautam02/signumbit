@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158300634528",
+    "project_id": "signumbeat-70f87",
+    "storage_bucket": "signumbeat-70f87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158300634528:android:0c3a8e2d956ec7a5d278c5",
+        "android_client_info": {
+          "package_name": "com.example.signumbit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3aWrQaN3MfyAIaR9DSq2uwBz9azVuHfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
