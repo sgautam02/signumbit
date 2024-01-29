@@ -1,6 +1,10 @@
 # signumbit
 
-A new Flutter project.
+An online music streaming app for free
+this is develped by using jiosaavn api 
+
+# Screenshots
+- [Screenshots ](https://drive.google.com/drive/folders/1ZxWM3R2uzcciVoAPSDUoHn_3HT_HsAaW)
 
 ## Getting Started
 
